@@ -1,0 +1,48 @@
+{
+  "navbar": {
+    "catalog": "Catalog",
+    "myBookings": "My Bookings",
+    "favorites": "Favorites",
+    "profile": "Profile",
+    "dashboard": "Admin Dashboard",
+    "settings": "Settings",
+    "logout": "Logout",
+    "login": "Login",
+    "register": "Register"
+  },
+  "home": {
+    "heroTag": "#1 Motorcycle Rental in Bandung",
+    "heroTitle1": "Ride the City",
+    "heroTitle2": "Without Limits",
+    "heroDesc": "Experience Bandung with style, comfort, and reliability. Book your ride today and explore the city like never before. From automatic scooters to high-performance sport bikes.",
+    "browseCatalog": "Browse Catalog",
+    "learnMore": "Learn More",
+    "reviews": "From 1k+ Reviews",
+    "whyChooseTitle": "Why Choose GoRide?",
+    "whyChooseDesc": "We provide the best service to ensure your journey in Bandung is unforgettable.",
+    "feature1Title": "Fully Insured",
+    "feature1Desc": "All our motorcycles come with comprehensive insurance for your peace of mind.",
+    "feature2Title": "24/7 Support",
+    "feature2Desc": "Our customer service team is ready to help you anytime, anywhere.",
+    "feature3Title": "Instant Booking",
+    "feature3Desc": "Book your ride in less than 2 minutes with our seamless platform.",
+    "howItWorksTitle": "How It Works",
+    "howItWorksDesc": "Rent a motorcycle in 3 simple steps",
+    "step1Title": "Select Motorcycle",
+    "step1Desc": "Browse our catalog and pick the perfect ride for your needs.",
+    "step2Title": "Book & Pay",
+    "step2Desc": "Choose your dates and complete the secure payment process.",
+    "step3Title": "Hit the Road",
+    "step3Desc": "Pick up your motorcycle or get it delivered to your location."
+  },
+  "footer": {
+    "aboutDesc": "The leading motorcycle rental platform in Bandung. We provide high-quality motorcycles for an unforgettable journey.",
+    "quickLinks": "Quick Links",
+    "catalog": "Catalog",
+    "about": "About Us",
+    "contact": "Contact",
+    "terms": "Terms & Conditions",
+    "privacy": "Privacy Policy",
+    "rights": "All rights reserved."
+  }
+}

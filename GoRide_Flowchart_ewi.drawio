@@ -1,0 +1,346 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" version="29.0.3">
+  <diagram name="Page-1" id="_naEBKes__D2_nmVBplk">
+    <mxGraphModel dx="1209" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Sof68r35CyyTbnr-s_8P-51" value="Mulai" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="645" y="129" width="63" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-52" value="Buka Aplikasi GoRide" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="575" y="218" width="203" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-53" value="Halaman Login / Register" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="559" y="306" width="236" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-54" value="Sudah punya akun?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="582" y="395" width="189" height="198" as="geometry" />
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-55" value="Isi form pendaftaran" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="498" y="658" width="201" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-56" value="Simpan data ke database" style="whiteSpace=wrap;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="479" y="771" width="241" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-57" value="Login email &amp; password" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="565" y="875" width="223" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-58" value="Data valid?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="610" y="988" width="133" height="142" as="geometry" />
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-59" value="Pengecekan Role" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1195" width="173" height="182" as="geometry" />
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-60" value="Tampilkan Dashboard Admin" style="whiteSpace=wrap;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="306" y="1442" width="260" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-61" value="Pilih Menu?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1570" width="133" height="142" as="geometry" />
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-62" value="Input data motor baru" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="43" y="2198" width="213" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-63" value="Simpan data motor ke database" style="whiteSpace=wrap;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="20" y="2389" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-64" value="Selesai" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="399" y="2583" width="75" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-65" value="Lihat daftar pesanan masuk" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="465" y="1797" width="253" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-66" value="Setujui pesanan?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="504" y="1929" width="175" height="184" as="geometry" />
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-67" value="Update status: Confirmed" style="whiteSpace=wrap;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="322" y="2248" width="245" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-68" value="Update status: Cancelled" style="whiteSpace=wrap;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="617" y="2248" width="241" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-69" value="Simpan perubahan ke database" style="whiteSpace=wrap;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="461" y="2447" width="260" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-70" value="Tampilkan Beranda Customer" style="whiteSpace=wrap;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="983" y="1442" width="260" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-71" value="Cari motor (jenis/lokasi)" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="997" y="1617" width="232" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-72" value="Sistem menampilkan daftar motor tersedia" style="whiteSpace=wrap;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="896" y="1777" width="260" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-73" value="Pilih motor yang akan disewa" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="887" y="1985" width="278" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-74" value="Lanjutkan pesanan?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="2178" width="195" height="204" as="geometry" />
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sof68r35CyyTbnr-s_8P-75" target="Sof68r35CyyTbnr-s_8P-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-75" value="Isi detail jadwal &amp; pembayaran" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="974" y="2455" width="278" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-76" value="Proses pembayaran" style="whiteSpace=wrap;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="1014" y="2575" width="197" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-77" value="Simpan data pemesanan ke database" style="whiteSpace=wrap;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="983" y="2679" width="260" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-78" value="Pesanan sukses, tampilkan e-ticket" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="974" y="2807" width="278" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-79" value="Ingin memberi ulasan?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="1006" y="2920" width="213" height="222" as="geometry" />
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-80" value="Isi ulasan &amp; rating" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="940" y="3207" width="184" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-81" value="Simpan ulasan ke database" style="whiteSpace=wrap;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="905" y="3320" width="254" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-82" value="Selesai" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="1075" y="3424" width="75" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-83" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Sof68r35CyyTbnr-s_8P-51" target="Sof68r35CyyTbnr-s_8P-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-84" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Sof68r35CyyTbnr-s_8P-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="677" y="307" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-85" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="677" y="346" as="sourcePoint" />
+            <mxPoint x="676.5" y="396" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-86" value="Tidak" style="curved=1;startArrow=none;endArrow=block;exitX=0.21;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Sof68r35CyyTbnr-s_8P-54" target="Sof68r35CyyTbnr-s_8P-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="599" y="621" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-87" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Sof68r35CyyTbnr-s_8P-55" target="Sof68r35CyyTbnr-s_8P-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-88" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.35;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Sof68r35CyyTbnr-s_8P-56" target="Sof68r35CyyTbnr-s_8P-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="599" y="850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-89" value="Ya" style="curved=1;startArrow=none;endArrow=block;exitX=0.8;exitY=1;entryX=0.65;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Sof68r35CyyTbnr-s_8P-54" target="Sof68r35CyyTbnr-s_8P-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="754" y="621" />
+              <mxPoint x="754" y="850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-90" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.47;exitY=0.99;entryX=0.41;entryY=0;rounded=0;" edge="1" parent="1" source="Sof68r35CyyTbnr-s_8P-57" target="Sof68r35CyyTbnr-s_8P-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="657" y="951" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-91" value="Tidak" style="curved=1;startArrow=none;endArrow=block;exitX=0.6;exitY=0;entryX=0.53;entryY=0.99;rounded=0;" edge="1" parent="1" source="Sof68r35CyyTbnr-s_8P-58" target="Sof68r35CyyTbnr-s_8P-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="696" y="951" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-92" value="Ya" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Sof68r35CyyTbnr-s_8P-58" target="Sof68r35CyyTbnr-s_8P-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-93" value="Admin" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.76;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Sof68r35CyyTbnr-s_8P-59" target="Sof68r35CyyTbnr-s_8P-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="436" y="1405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-94" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Sof68r35CyyTbnr-s_8P-60" target="Sof68r35CyyTbnr-s_8P-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-95" value="Kelola Motor" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.68;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Sof68r35CyyTbnr-s_8P-61" target="Sof68r35CyyTbnr-s_8P-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="1682" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-96" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Sof68r35CyyTbnr-s_8P-62" target="Sof68r35CyyTbnr-s_8P-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-97" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.31;rounded=0;" edge="1" parent="1" source="Sof68r35CyyTbnr-s_8P-63" target="Sof68r35CyyTbnr-s_8P-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="2492" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-98" value="Kelola Pesanan" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.83;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Sof68r35CyyTbnr-s_8P-61" target="Sof68r35CyyTbnr-s_8P-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="591" y="1740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-99" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Sof68r35CyyTbnr-s_8P-65" target="Sof68r35CyyTbnr-s_8P-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-100" value="Ya" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.92;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="Sof68r35CyyTbnr-s_8P-66" target="Sof68r35CyyTbnr-s_8P-67">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="445" y="2141" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-101" value="Tidak" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.92;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="Sof68r35CyyTbnr-s_8P-66" target="Sof68r35CyyTbnr-s_8P-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="738" y="2141" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-102" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.21;entryY=0;rounded=0;" edge="1" parent="1" source="Sof68r35CyyTbnr-s_8P-67" target="Sof68r35CyyTbnr-s_8P-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="445" y="2410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-103" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.79;entryY=0;rounded=0;" edge="1" parent="1" source="Sof68r35CyyTbnr-s_8P-68" target="Sof68r35CyyTbnr-s_8P-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="738" y="2410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-104" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.17;rounded=0;" edge="1" parent="1" source="Sof68r35CyyTbnr-s_8P-69" target="Sof68r35CyyTbnr-s_8P-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="591" y="2550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-105" value="Customer" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.64;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Sof68r35CyyTbnr-s_8P-59" target="Sof68r35CyyTbnr-s_8P-70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1113" y="1405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-106" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Sof68r35CyyTbnr-s_8P-70" target="Sof68r35CyyTbnr-s_8P-71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-107" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.43;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Sof68r35CyyTbnr-s_8P-71" target="Sof68r35CyyTbnr-s_8P-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1026" y="1740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-108" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Sof68r35CyyTbnr-s_8P-72" target="Sof68r35CyyTbnr-s_8P-73">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-109" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.18;entryY=0;rounded=0;" edge="1" parent="1" source="Sof68r35CyyTbnr-s_8P-73" target="Sof68r35CyyTbnr-s_8P-74">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1026" y="2141" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-110" value="Tidak" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=0;entryX=0.57;entryY=1;rounded=0;" edge="1" parent="1" source="Sof68r35CyyTbnr-s_8P-74" target="Sof68r35CyyTbnr-s_8P-71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1200" y="2141" />
+              <mxPoint x="1200" y="1740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-111" value="Ya" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Sof68r35CyyTbnr-s_8P-74" target="Sof68r35CyyTbnr-s_8P-75">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-112" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="Sof68r35CyyTbnr-s_8P-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="1113" y="2528" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-113" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Sof68r35CyyTbnr-s_8P-76" target="Sof68r35CyyTbnr-s_8P-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-114" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Sof68r35CyyTbnr-s_8P-77" target="Sof68r35CyyTbnr-s_8P-78">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-115" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Sof68r35CyyTbnr-s_8P-78" target="Sof68r35CyyTbnr-s_8P-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-116" value="Ya" style="curved=1;startArrow=none;endArrow=block;exitX=0.22;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="Sof68r35CyyTbnr-s_8P-79" target="Sof68r35CyyTbnr-s_8P-80">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1032" y="3170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-117" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="Sof68r35CyyTbnr-s_8P-80" target="Sof68r35CyyTbnr-s_8P-81">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-118" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.03;entryY=0.01;rounded=0;" edge="1" parent="1" source="Sof68r35CyyTbnr-s_8P-81" target="Sof68r35CyyTbnr-s_8P-82">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1032" y="3399" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-119" value="Tidak" style="curved=1;startArrow=none;endArrow=block;exitX=0.78;exitY=1;entryX=0.97;entryY=0.01;rounded=0;" edge="1" parent="1" source="Sof68r35CyyTbnr-s_8P-79" target="Sof68r35CyyTbnr-s_8P-82">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1194" y="3170" />
+              <mxPoint x="1194" y="3399" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sof68r35CyyTbnr-s_8P-121" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;&lt;b style=&quot;&quot;&gt;GORIDE - PENYEWAAN MOTOR&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="20" width="500" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,116 @@
+@import "tailwindcss";
+
+/* Tailwind v4: configure dark variant to use .dark class on html element */
+@variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-primary: #3b82f6;
+  --color-primary-hover: #2563eb;
+  --color-secondary: #10b981;
+  --color-border-glow: rgba(59, 130, 246, 0.5);
+}
+
+@layer base {
+  /* === LIGHT MODE (default) === */
+  :root {
+    --bg-base: #f1f5f9;
+    --bg-panel: rgba(255, 255, 255, 0.85);
+    --bg-card: #ffffff;
+    --bg-subtle: rgba(0, 0, 0, 0.04);
+    --bg-input: #ffffff;
+    --text-base: #0f172a;
+    --text-muted: #64748b;
+    --text-subtle: #94a3b8;
+    --border-base: rgba(0, 0, 0, 0.08);
+    --border-strong: rgba(0, 0, 0, 0.16);
+    --shadow-color: rgba(0, 0, 0, 0.08);
+    --navbar-bg: rgba(241, 245, 249, 0.85);
+    --mobile-menu-bg: rgba(248, 250, 252, 0.98);
+    --icon-bg: rgba(0, 0, 0, 0.06);
+  }
+
+  /* === DARK MODE === */
+  .dark {
+    --bg-base: #0f172a;
+    --bg-panel: rgba(30, 41, 59, 0.75);
+    --bg-card: #1e293b;
+    --bg-subtle: rgba(255, 255, 255, 0.04);
+    --bg-input: #1e293b;
+    --text-base: #f1f5f9;
+    --text-muted: #94a3b8;
+    --text-subtle: #64748b;
+    --border-base: rgba(255, 255, 255, 0.08);
+    --border-strong: rgba(255, 255, 255, 0.16);
+    --shadow-color: rgba(0, 0, 0, 0.4);
+    --navbar-bg: rgba(15, 23, 42, 0.85);
+    --mobile-menu-bg: rgba(15, 23, 42, 0.98);
+    --icon-bg: rgba(255, 255, 255, 0.06);
+  }
+
+  html {
+    @apply transition-colors duration-300;
+  }
+
+  body {
+    background-color: var(--bg-base);
+    color: var(--text-base);
+    @apply min-h-screen font-sans transition-colors duration-300;
+    background-image: 
+      radial-gradient(circle at 15% 50%, rgba(59, 130, 246, 0.12) 0%, transparent 50%),
+      radial-gradient(circle at 85% 30%, rgba(16, 185, 129, 0.08) 0%, transparent 50%);
+    background-attachment: fixed;
+  }
+}
+
+@layer components {
+  .glass-panel {
+    background-color: var(--bg-panel);
+    border-color: var(--border-base);
+    @apply backdrop-blur-md border rounded-xl shadow-lg transition-all duration-300;
+  }
+  
+  .glass-panel:hover {
+    border-color: rgba(59, 130, 246, 0.4);
+  }
+
+  .btn {
+    @apply inline-flex items-center justify-center px-6 py-3 rounded-xl font-medium transition-all duration-300 gap-2 focus:outline-none focus:ring-2 focus:ring-offset-2;
+  }
+
+  .btn-primary {
+    @apply bg-primary text-white hover:bg-primary-hover hover:-translate-y-0.5 shadow-[0_0_15px_rgba(59,130,246,0.5)] hover:shadow-[0_0_25px_rgba(59,130,246,0.7)];
+  }
+
+  .btn-secondary {
+    border-color: var(--border-base);
+    color: var(--text-base);
+    @apply bg-transparent border hover:bg-[var(--bg-subtle)];
+  }
+
+  /* Utility: adaptive text colors */
+  .text-adaptive {
+    color: var(--text-base);
+  }
+  .text-adaptive-muted {
+    color: var(--text-muted);
+  }
+
+  /* Utility: adaptive backgrounds */
+  .bg-adaptive {
+    background-color: var(--bg-base);
+  }
+  .bg-adaptive-panel {
+    background-color: var(--bg-panel);
+  }
+  .bg-adaptive-card {
+    background-color: var(--bg-card);
+  }
+  .bg-adaptive-subtle {
+    background-color: var(--bg-subtle);
+  }
+
+  /* Utility: adaptive borders */
+  .border-adaptive {
+    border-color: var(--border-base);
+  }
+}

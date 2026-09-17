@@ -1,0 +1,48 @@
+{
+  "navbar": {
+    "catalog": "Katalog",
+    "myBookings": "Pesanan Saya",
+    "favorites": "Favorit",
+    "profile": "Profil",
+    "dashboard": "Dasbor Admin",
+    "settings": "Pengaturan",
+    "logout": "Keluar",
+    "login": "Masuk",
+    "register": "Daftar"
+  },
+  "home": {
+    "heroTag": "#1 Rental Motor di Bandung",
+    "heroTitle1": "Jelajahi Kota",
+    "heroTitle2": "Tanpa Batas",
+    "heroDesc": "Nikmati Bandung dengan gaya, kenyamanan, dan keandalan. Pesan kendaraan Anda hari ini dan jelajahi kota yang belum pernah ada sebelumnya. Dari skuter otomatis hingga motor sport berkinerja tinggi.",
+    "browseCatalog": "Lihat Katalog",
+    "learnMore": "Pelajari Lebih Lanjut",
+    "reviews": "Dari 1k+ Ulasan",
+    "whyChooseTitle": "Mengapa Memilih GoRide?",
+    "whyChooseDesc": "Kami memberikan layanan terbaik untuk memastikan perjalanan Anda di Bandung tak terlupakan.",
+    "feature1Title": "Asuransi Penuh",
+    "feature1Desc": "Semua motor kami dilengkapi dengan asuransi komprehensif untuk ketenangan pikiran Anda.",
+    "feature2Title": "Dukungan 24/7",
+    "feature2Desc": "Tim layanan pelanggan kami siap membantu Anda kapan saja, di mana saja.",
+    "feature3Title": "Pemesanan Instan",
+    "feature3Desc": "Pesan perjalanan Anda dalam waktu kurang dari 2 menit dengan platform mulus kami.",
+    "howItWorksTitle": "Cara Kerjanya",
+    "howItWorksDesc": "Sewa motor dalam 3 langkah sederhana",
+    "step1Title": "Pilih Motor",
+    "step1Desc": "Telusuri katalog kami dan pilih perjalanan yang sempurna untuk kebutuhan Anda.",
+    "step2Title": "Pesan & Bayar",
+    "step2Desc": "Pilih tanggal Anda dan selesaikan proses pembayaran yang aman.",
+    "step3Title": "Mulai Perjalanan",
+    "step3Desc": "Ambil motor Anda atau minta diantarkan ke lokasi Anda."
+  },
+  "footer": {
+    "aboutDesc": "Platform rental motor terkemuka di Bandung. Kami menyediakan motor berkualitas tinggi untuk perjalanan yang tak terlupakan.",
+    "quickLinks": "Tautan Cepat",
+    "catalog": "Katalog",
+    "about": "Tentang Kami",
+    "contact": "Kontak",
+    "terms": "Syarat & Ketentuan",
+    "privacy": "Kebijakan Privasi",
+    "rights": "Hak cipta dilindungi."
+  }
+}
